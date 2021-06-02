@@ -22,8 +22,6 @@ namespace MongoDB.api.Controllers
         /// Este serviço permite inserir uma pessoa infectada pelo vírus COVID-19
         /// de acordo com seu sexo e localização.
         /// </summary>
-        /// <param name="InfectadoViewModel"></param>
-        /// <returns></returns>
         [HttpPost]
         [Route("insere")]
         public ActionResult SalvarInfectado([FromBody] InfectadoViewModel dto)

@@ -9,8 +9,6 @@
             Este serviço permite inserir uma pessoa infectada pelo vírus COVID-19
             de acordo com seu sexo e localização.
             </summary>
-            <param name="InfectadoViewModel"></param>
-            <returns></returns>
         </member>
         <member name="M:MongoDB.api.Controllers.InfectadoController.ObterInfectados">
             <summary>
