@@ -38,3 +38,5 @@ D:\workspace\Api.net\MongoDB.api\bin\Debug\net5.0\runtimes\win\native\snappy64.d
 D:\workspace\Api.net\MongoDB.api\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 D:\workspace\Api.net\MongoDB.api\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 D:\workspace\Api.net\MongoDB.api\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\workspace\Api.net\MongoDB.api\bin\Debug\net5.0\MongoDB.api.xml
+D:\workspace\Api.net\MongoDB.api\obj\Debug\net5.0\MongoDB.api.xml
